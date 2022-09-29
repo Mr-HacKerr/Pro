@@ -23,7 +23,7 @@
 - `pip install bs4`
 - `rm -rf pro`
 - `git clone https://github.com/Mr-HacKerr/Pro.git`
-- `cd pro`
+- `cd Pro`
 - `python Mr-Hacker.py`
 
 
