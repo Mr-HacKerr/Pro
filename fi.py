@@ -1,2 +1,2 @@
-import i
-i.xxx()
+import fi
+fi.xxx()
