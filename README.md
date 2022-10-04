@@ -21,7 +21,7 @@
 - `pip install requests`
 - `pip install mechanize`
 - `pip install bs4`
-- `rm -rf pro`
+- `rm -rf Pro`
 - `git clone https://github.com/Mr-HacKerr/Pro.git`
 - `cd Pro`
 - `python Mr-Hacker.py`
