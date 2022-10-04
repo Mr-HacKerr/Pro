@@ -24,7 +24,7 @@
 - `rm -rf Pro`
 - `git clone https://github.com/Mr-HacKerr/Pro.git`
 - `cd Pro`
-- `python Mr-Hacker.py`
+- `python Mr-HACKER.py`
 
 
 
