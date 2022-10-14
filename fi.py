@@ -1,2 +1,0 @@
-import fi
-fi.xxx()
